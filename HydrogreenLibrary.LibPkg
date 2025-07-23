@@ -84,6 +84,23 @@ GenerateClassCluster=0
 DocumentUniqueId=YGLNRELR
 
 [Document3]
+DocumentPath=Parts\ESP32-C3\ESP32-C3.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AKXQBNYO
+
+[Document4]
 DocumentPath=Parts\XT30PW-M\XT30PWM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZERRKPC
 
-[Document4]
+[Document5]
 DocumentPath=Parts\XT30PW-F\XT30PWF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
