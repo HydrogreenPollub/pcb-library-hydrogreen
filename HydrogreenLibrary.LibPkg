@@ -101,6 +101,23 @@ GenerateClassCluster=0
 DocumentUniqueId=AKXQBNYO
 
 [Document4]
+DocumentPath=Parts\STM32G491CET6\STM32G491CET6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BUJLXYTY
+
+[Document5]
 DocumentPath=Parts\XT30PW-M\XT30PWM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZERRKPC
 
-[Document5]
+[Document6]
 DocumentPath=Parts\XT30PW-F\XT30PWF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
