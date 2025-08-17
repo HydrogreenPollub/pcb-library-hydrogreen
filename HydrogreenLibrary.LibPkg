@@ -322,6 +322,40 @@ GenerateClassCluster=0
 DocumentUniqueId=ANVCKUIQ
 
 [Document17]
+DocumentPath=Parts\XT60H-M\XT60H-M.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QWWQIKQC
+
+[Document18]
+DocumentPath=Parts\XT60H-F\XT60H-F.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IMNXYJNP
+
+[Document19]
 DocumentPath=Parts\XT90PB-M\XT90PB-M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVPNGNUA
 
-[Document18]
+[Document20]
 DocumentPath=Parts\XT90PB-F\XT90PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APZEGAJB
 
-[Document19]
+[Document21]
 DocumentPath=Parts\STM32G491CET6\part_info.txt
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document20]
+[Document22]
 DocumentPath=Parts\STM32G491CET6\STM32G491CET6.epw
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document21]
+[Document23]
 DocumentPath=39-01-2225.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAUXXLCC
 
-[Document22]
+[Document24]
 DocumentPath=Parts\172168-1\172168-1.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
