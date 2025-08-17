@@ -67,6 +67,23 @@ GenerateClassCluster=0
 DocumentUniqueId=WWAYKJXK
 
 [Document2]
+DocumentPath=Parts\39-01-2100\39-01-2100.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MZURNHML
+
+[Document3]
 DocumentPath=Parts\39-30-1181\39-30-1181.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +100,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TJBXWQJJ
 
-[Document3]
+[Document4]
+DocumentPath=Parts\43024-1800\43025-1800.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HBXNHHJN
+
+[Document5]
 DocumentPath=Parts\OZCJ0025FF2E\0ZCJ0025FF2E.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJHZXMZC
 
-[Document4]
+[Document6]
 DocumentPath=Parts\1751251\1751251.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCKWQFPM
 
-[Document5]
+[Document7]
 DocumentPath=Parts\1977477-2\19774772.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -134,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYUBLJPI
 
-[Document6]
+[Document8]
 DocumentPath=Parts\39012025\39012025.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WIYYVMFO
 
-[Document7]
+[Document9]
 DocumentPath=Parts\AO4264E\AO4286.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UJWHDJNP
 
-[Document8]
+[Document10]
 DocumentPath=Parts\ESP32-C3\ESP32-C3.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AKXQBNYO
 
-[Document9]
+[Document11]
 DocumentPath=Parts\GRM31CR61C226KE15L\GRM31CR61C226KE15L.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DKGVHCPH
 
-[Document10]
+[Document12]
 DocumentPath=Parts\LDI1117-3.3H\LDI1117-3.3H.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YGLNRELR
 
-[Document11]
+[Document13]
 DocumentPath=Parts\LDI1117-05H\LDI1117-05H.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APPMTBLW
 
-[Document12]
+[Document14]
 DocumentPath=Parts\STM32G491CET6\STM32G491CET6.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BYXTHNBO
 
-[Document13]
+[Document15]
 DocumentPath=Parts\XT30PW-M\XT30PWM.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZERRKPC
 
-[Document14]
+[Document16]
 DocumentPath=Parts\XT30PW-F\XT30PWF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANVCKUIQ
 
-[Document15]
+[Document17]
 DocumentPath=Parts\XT90PB-M\XT90PB-M.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JVPNGNUA
 
-[Document16]
+[Document18]
 DocumentPath=Parts\XT90PB-F\XT90PBF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=APZEGAJB
 
-[Document17]
+[Document19]
 DocumentPath=Parts\STM32G491CET6\part_info.txt
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
+[Document20]
 DocumentPath=Parts\STM32G491CET6\STM32G491CET6.epw
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,6 +388,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document21]
+DocumentPath=39-01-2225.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UAUXXLCC
+
+[Document22]
+DocumentPath=Parts\172168-1\172168-1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FCKCPYNT
 
 [OutputGroup1]
 Name=Netlist Outputs
