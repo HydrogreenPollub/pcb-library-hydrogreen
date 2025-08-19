@@ -1,0 +1,9 @@
+Manufacturer=Molex
+PartNumber=39-30-1181
+PartCategory=Connector
+PackageCategory=Other
+PinCount=18
+Version=6.1
+Released=2022-02-16 15:42:37
+Downloaded=2025-08-16 22:50:39
+3D=Y
