@@ -1,9 +1,0 @@
-Manufacturer=STMicroelectronics
-PartNumber=STM32G491CET6
-PartCategory=Integrated Circuit
-PackageCategory=Quad Flat Packages
-PinCount=48
-Version=1.1
-Released=2021-03-25 03:37:49
-Downloaded=2025-07-24 00:40:00
-3D=Y

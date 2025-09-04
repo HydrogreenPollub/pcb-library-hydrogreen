@@ -1,9 +1,0 @@
-Manufacturer=Diodes Incorporated
-PartNumber=MBRD20100CT-13
-PartCategory=Schottky Diode
-PackageCategory=Other
-PinCount=3
-Version=5.2
-Released=2018-08-25 19:26:14
-Downloaded=2025-07-25 17:13:47
-3D=Y
